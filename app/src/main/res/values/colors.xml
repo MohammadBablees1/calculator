@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- الهوية: أخضر عصري -->
+    <color name="primary">#16A34A</color>
+    <color name="onPrimary">#FFFFFF</color>
+
+    <!-- الخلفيات -->
+    <color name="background">#F8FAFC</color>
+    <color name="surface">#FFFFFF</color>
+
+    <!-- النصوص -->
+    <color name="onBackground">#0F172A</color>
+    <color name="onSurface">#1E293B</color>
+
+    <!-- تمييز اختياري -->
+    <color name="accent">#F59E0B</color>
+</resources>
